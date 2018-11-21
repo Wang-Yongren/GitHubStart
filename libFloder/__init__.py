@@ -1,5 +1,5 @@
 a = 18
-
+b = 20
 def calculate():
     print(__name__)
     return a+6
